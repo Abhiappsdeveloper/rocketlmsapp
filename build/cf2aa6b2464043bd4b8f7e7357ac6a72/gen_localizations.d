@@ -1,0 +1,1 @@
+ E:\\rocketlmsapp\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations_ar.dart E:\\rocketlmsapp\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations_en.dart E:\\rocketlmsapp\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations.dart:  E:\\rocketlmsapp\\l10n.yaml E:\\rocketlmsapp\\lib/config/l10n\\app_ar.arb E:\\rocketlmsapp\\lib/config/l10n\\app_en.arb
